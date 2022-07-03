@@ -1,6 +1,8 @@
 # Json Translator
 Application that helps to translate json values to other languages.
 
+Helps in situations when you have many languages on the website and you save different languages in different objects with the same properties
+
 ## Usage
 Run 'npm i' command in the terminal
 
